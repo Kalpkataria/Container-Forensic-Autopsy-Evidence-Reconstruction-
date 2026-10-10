@@ -1,6 +1,7 @@
-# Container Forensic Autopsy & Evidence Reconstruction
+#CLOUD CONTAINER SECURITY & FORENSICS
 
-A **Docker container forensics framework** designed to capture and preserve volatile forensic evidence from compromised containers before they are terminated or deleted.
+**Developing a cloud-native container forensics system to capture ephemeral artifacts, container metadata, and process activity.
+A Docker container forensics framework** designed to capture and preserve volatile forensic evidence from compromised containers before they are terminated or deleted.
 
 The project collects container-level artifacts, correlates them across processes, files, and network activity, and reconstructs an **attack timeline** to support container-based incident investigation.
 
